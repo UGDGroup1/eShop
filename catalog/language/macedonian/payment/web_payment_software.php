@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Text
 $_['text_title']           = 'Кредитна картичка / дебитна картичка (Web Payment Software)';
 $_['text_credit_card']     = 'Кредитна картичка / дебитна картичка детали';

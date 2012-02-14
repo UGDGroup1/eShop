@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Text
 $_['text_search']       = 'Пребарување';
 $_['text_brand']        = 'Brand';

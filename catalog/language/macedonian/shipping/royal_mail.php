@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Text
 $_['text_title']                 = 'Royal Mail';
 $_['text_weight']                = 'Ширина:';
