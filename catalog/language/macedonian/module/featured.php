@@ -1,7 +1,6 @@
-﻿<?php
+<?php
 // Heading 
-$_['heading_title'] = 'Избрана';
+$_['heading_title'] = 'asd';
 
-// Text
-$_['text_reviews']  = 'Врз основа на коментарите на %s.'; 
+$_['text_reviews']  = 'asd';
 ?>
