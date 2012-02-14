@@ -1,0 +1,76 @@
+2012-01-29 0:23:42 - PHP Notice:  Error: Could not load template /projects/eshop/catalog/view/theme/default/template/module/customFooter.tpl! in /projects/eshop/system/engine/controller.php on line 71
+2012-01-29 3:04:33 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:37 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:53 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:55 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:56 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:57 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:58 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:59 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:59 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:59 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:06:59 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 3:07:07 - PHP Notice:  Error: Could not load language macedonian! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 5:24:41 - PHP Notice:  Error: Could not load language total/sub_total! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 5:24:44 - PHP Notice:  Error: Could not load language total/sub_total! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 5:24:45 - PHP Notice:  Error: Could not load language total/sub_total! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 5:24:46 - PHP Notice:  Error: Could not load language total/sub_total! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 5:24:47 - PHP Notice:  Error: Could not load language total/sub_total! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 5:27:07 - PHP Notice:  Error: Could not load language total/sub_total! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 5:27:12 - PHP Notice:  Error: Could not load language total/sub_total! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 5:27:57 - PHP Notice:  Error: Could not load language total/sub_total! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:06:50 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:08 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:09 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:09 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:09 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:09 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:10 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:10 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:10 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:10 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:10 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:11 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:11 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:11 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:11 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:23:11 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:24:03 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:24:04 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:24:04 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:24:04 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:24:04 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:24:05 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:36 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:37 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:37 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:38 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:38 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:38 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:38 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:38 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:39 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:39 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:25:39 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:26:48 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:26:49 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:26:49 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:26:49 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:28:10 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:28:11 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:28:11 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:28:11 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:28:12 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:28:12 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 6:28:12 - PHP Notice:  Error: Could not load language module/featured! in /projects/eshop/system/library/language.php on line 26
+2012-01-29 18:14:20 - PHP Notice:  Undefined index: HTTP_HOST in /projects/eshop/index.php on line 166
+2012-01-29 18:14:20 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /projects/eshop/index.php:91) in /projects/eshop/index.php on line 166
+2012-01-29 18:14:20 - PHP Notice:  Undefined index: HTTP_HOST in /projects/eshop/system/library/currency.php on line 45
+2012-01-29 18:14:20 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /projects/eshop/index.php:91) in /projects/eshop/system/library/currency.php on line 45
+2012-01-29 18:14:20 - PHP Notice:  Undefined index: REQUEST_METHOD in /projects/eshop/catalog/controller/common/header.php on line 117
+2012-01-29 18:14:20 - PHP Notice:  Undefined index: REQUEST_METHOD in /projects/eshop/catalog/controller/common/header.php on line 145
+2012-01-29 18:20:19 - PHP Notice:  Undefined index: REQUEST_METHOD in /projects/eshop/catalog/controller/common/header.php on line 117
+2012-01-29 18:20:19 - PHP Notice:  Undefined index: REQUEST_METHOD in /projects/eshop/catalog/controller/common/header.php on line 145
+2012-01-29 18:20:25 - PHP Notice:  Undefined index: REQUEST_METHOD in /projects/eshop/catalog/controller/common/header.php on line 117
+2012-01-29 18:20:25 - PHP Notice:  Undefined index: REQUEST_METHOD in /projects/eshop/catalog/controller/common/header.php on line 145
+2012-02-13 22:39:39 - PHP Warning:  unlink(/home/casualde/www/tofej.info/system/cache/cache.currency.1329166166) [<a href='http://ch2.php.net/manual/en/function.unlink.php'>function.unlink.php</a>]: No such file or directory in /home/casualde/www/tofej.info/system/library/cache.php on line 14

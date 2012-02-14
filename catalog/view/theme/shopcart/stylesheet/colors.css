@@ -1,0 +1,192 @@
+﻿/********************************************** 
+
+
+TEXT COLORS 
+
+***********************************************/
+
+/* PRIMARY colour */
+body, #footer-top-outside h2, #footer h3, .box-category > ul > li > a, .product-compare a, .product-list .name a, .product-list .name a:visited, .category_name a, .category_name a:visited,
+.htabs a.selected, .attribute thead td, .attribute thead tr td:first-child, .product-filter .sort 
+
+ {
+	
+	color: #3d3d3d; /* shopcart_color_a */
+}
+
+/* SECOND colour */
+#footer-top-outside li, #footer-top-outside p, #powered #powered_text, #header #cart .cart, #header #cart table.total, body, #breadcrumbs a, #menu > ul > li ul > li > a, 
+#menu > ul > li > div > ul > li > a, .wishlist a,  .compare a, .product-info .cart #options a, .rating, .product-info .description a, .product-info .cart div > span, .product-info .cart .minimum,
+.checkout-product  .price, .checkout-product thead .total 
+{
+color: #767676; /* shopcart_color_b */
+
+}
+
+/* COLUMNS HEADING, third color */
+#column-left .box .box-heading, .box-category > ul > li a.active, .tab-content  #date_added  {
+	
+	color:#df476e; /* shopcart_color_c */
+
+}
+
+/******************************************************
+
+LINKS COLORS 
+
+*****************************************************/
+
+/* primary links */
+a, a:visited, a b, #header #cart .heading a span, .product-info .right h1, .cart-total table tr:last-child td, 
+div#menu ul li div ul li a:hover
+{
+	
+	color: #df476e; /* shopcart_links_a_color */
+}
+
+/* HEADERS, SECONDARY LINKS */
+h1, .welcome, h3, h2, .box-product .name a, .product-grid .name a, .pagination .links a, #breadcrumbs a:hover{
+	color: #3d3d3d; /* shopcart_links_b_color */
+	
+}
+
+/* HOVER COLOR */
+a:hover, a:visited:hover, #welcome a:hover, #header .links a:hover{
+	
+	color:#767676; /* shopcart_links_hover_color */
+}
+
+
+#menu > ul > li > a, #header .links a, #header #cart .cart td a, #welcome, #menu > ul > li:hover ul li a {
+	color: #4b4b4b; /* shopcart_menu_links_color */
+
+}
+
+
+#menu > ul > li:hover {
+	background: #df476e;  /* shopcart_menu_bg_color */
+	
+}
+
+
+/***********************************
+
+HEADER AND FOOTER - BG COLORS + IMAGES 
+
+
+***************************************/
+
+
+
+#top_container, #powered {
+    background-color: #e1f6fd; /* shopcart_top_bg_color */
+    background-image: url("../image/bg/1.png"); /* shopcart_top_bg_image */
+}
+
+#header #header_bottom {
+	background-color: #f3fbfe; /* shopcart_top_menu_bg */
+	border-top: 1px solid #eaf3f5;
+}
+
+#breadcrumbs {
+	
+	background-color: #b8d6e1; /* shopcart_breadcrumbs_bg_color */
+	 background-image: url("../image/bg/1.png"); /*shopcart_top_bg_image */
+}
+
+/* FOOTER BACKGROUND */
+#footer-top-outside, #footer-border  {
+	
+	background-color:#ececec; /* shopcart_footer_bg_color */
+}
+
+
+/***************************************************
+
+
+ buttons 
+ 
+ 
+ ************************************************/
+ 
+ 
+a.button, a.button:visited {
+/* shopcart_button_normal_a */
+/* shopcart_button_normal_b */
+
+	
+color: #6f8339;
+background: #c9e181; /* Old browsers */
+background: -moz-linear-gradient(top, #c9e181 0%, #9fcb55 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c9e181), color-stop(100%,#9fcb55)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #c9e181 0%,#9fcb55 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #c9e181 0%,#9fcb55 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #c9e181 0%,#9fcb55 100%); /* IE10+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9e181', endColorstr='#9fcb55',GradientType=0 ); /* IE6-9 */
+background: linear-gradient(top, #c9e181 0%,#9fcb55 100%); /* W3C */
+}
+
+a.button:hover {
+/* shopcart_button_hover_a */
+/* shopcart_button_hover_b */
+
+color: white;
+	background: #eb6399; /* Old browsers */
+background: -moz-linear-gradient(top, #eb6399 0%, #dc4164 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eb6399), color-stop(100%,#dc4164)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #eb6399 0%,#dc4164 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #eb6399 0%,#dc4164 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #eb6399 0%,#dc4164 100%); /* IE10+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eb6399', endColorstr='#dc4164',GradientType=0 ); /* IE6-9 */
+background: linear-gradient(top, #eb6399 0%,#dc4164 100%); /* W3C */
+}
+
+
+
+/***********************************************
+
+
+
+PRICES COLORS 
+
+
+***********************************************/
+
+/* PROMO PRICE */
+.price-new, .checkout-product .total {
+	
+	color:#b20f39; /* shopcart_promo_price */
+}
+
+/*normal price */
+ .price {
+	color:#df476e; /* shopcart_normal_price */
+
+}
+
+/* OLD PRICE */
+.price-old {
+color: #a4a4a4; /* shopcart_old_price */
+}
+
+
+/**********************************************
+
+
+ FONT 
+ 
+ 
+**********************************************/
+
+h1, .welcome, h3, h2, .box-product .name a, .product-grid .name a, .pagination .links a , #welcome, #header #cart .cart td, #menu > ul > li > a, table.list thead td, .pagination, .htabs a,  .box .box-heading h2, #tab-review .box-heading h2, .box-heading-search h2,
+.box-category > ul > li > a, #column-left .box .box-heading, #column-right .box .box-heading, .category-list .category_box .category_name a, .manufacturer-heading, 
+ .category_name a, .product-filter, .product-list .name a , .product-list .description, .category-info p , .wishlist a, .compare a , #review .content, 
+ .product-info .cart #options a , .attribute thead td, .attribute thead tr td:first-child, .compare-info thead td, .compare-info thead tr td:first-child , 
+ .cart-total table tr:last-child td , .cart-info thead td, .cart-module .cart-heading , .checkout-heading, #footer h3, #footer-top-outside h2
+  {
+	
+	font-family:"Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; /* shopcart_font */
+
+}
+
+

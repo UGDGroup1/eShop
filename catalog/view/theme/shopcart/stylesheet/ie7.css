@@ -1,0 +1,98 @@
+/* God I hate Microsoft! */
+#header #search {
+	position: inherit;
+	float: right;
+}
+#header .button-search {
+}
+#header #search input {
+padding-top:3px;
+		height: 18px;
+		padding-bottom: 3px;
+}
+/* menu */
+#menu ul li {
+	position: relative;
+}
+#menu ul li div {
+	z-index: 5;
+}
+#menu ul li.active div {
+	display: block;
+}
+.success, .warning, .attention, .information {
+	position: relative;
+}
+.success .close, .warning .close, .attention .close, .information .close {
+	position: absolute;
+	right: 10px;
+}
+.box-product > div {
+	display: inline;
+}
+.product-grid > div {
+	display: inline;
+}
+/* button */
+.prduct-info a.button span {
+	line-height: 12px;
+	display: block;
+}
+ ul, #footer ul{
+	
+	
+	margin-left:0;
+}
+.product-filter .display b{
+float:left;
+}
+#list_b, #list_a, #grid_b, #grid_a{
+	
+	float:left;
+}
+#header #cart .heading a span {
+	
+	float:left;
+}
+#header #cart .heading h4 {
+	
+	float:left;
+}
+#header #cart {
+
+}
+#header #cart .heading {
+padding:15px 0;
+}
+#header #cart .content {
+
+	
+}
+.product-list .right {
+	display: block;
+}
+.product_inside .right .cart .button {
+	float: right;
+}
+.product-grid .product_inside .cart {
+	margin-left: 10px;
+}
+.product-list .price {
+	float: none;
+}
+.product-list .wishlist, .product-list .compare {
+	float:none;
+	text-align:right;
+}
+.product-grid .wishlist {
+	float: left;
+}
+.tab-content {
+	overflow: visible;
+}
+.container {
+	background-color: transparent;
+	}
+	.product-info .right h1 {
+	float: none;
+	}
